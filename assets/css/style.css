@@ -1,0 +1,136 @@
+body {
+    font-weight: bold;
+    /* background: url("../img/background1.jpg") no-repeat center fixed; 
+    background-size: cover; ---> Les images de fonds se chargent aléatoirement par le fichier .JS */
+}
+
+/* Affiche une animation le temps que la page se charge */
+#working {
+    display: none;
+    background-image: url(../img/loading4.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    position:fixed;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.titre {
+    font-size: xx-large;
+}
+
+/* Pour faire clignoter les messages (erreur et confirmation) */
+.clignote {
+    -webkit-animation: clignote 2.0s linear infinite;
+    -moz-animation: clignote 2.0s linear infinite;
+    -ms-animation: clignote 2.0s linear infinite;
+    -o-animation: clignote 2.0s linear infinite;
+    animation: clignote 2.0s linear infinite;
+}
+
+ @keyframes clignote {
+    80% 
+    {
+        text-shadow: 10px 10px 20px red, 0 0 1em red, 0 0 0.2em red;
+        color: red;
+        opacity:1;    
+    }
+    90% 
+    {
+        text-shadow: none;
+        color: black;
+        opacity:0;
+    }
+    100% 
+    {
+        text-shadow: 10px 10px 20px red, 0 0 1em red, 0 0 0.2em red;
+        color: red;
+        opacity:1;
+    }
+}
+@-webkit-keyframes clignote {
+    80% 
+    {
+        text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+        opacity:1;
+    }
+    90% 
+    {
+        text-shadow: none;
+        opacity:0;
+    }
+    100% 
+    {
+        text-shadow: 1px 1px 2px red, 0 0 1em red, 0 0 0.2em red;
+        opacity:1;
+    }
+
+}
+
+table, td {
+    border: solid 1px;
+    text-align: center;
+}
+
+/* N'affiche qu'une ligne rouge (sous le texte) dans la boite d'input */
+input[type=text] {
+    border: none;
+    border-bottom: 1px solid red;
+    width: 350px;
+}
+
+button {
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px 4px 4px 4px;
+    cursor: pointer;
+    height: 40px;
+}
+.btn_action {
+    background-color: #0d6efd;
+    color: white;
+    border: 2px solid #0d6efd;
+}
+.btn_action:hover {
+    background-color: White;
+    color: #0d6efd;
+    border: 2px solid #0d6efd;
+    transition-duration: 2s;
+}
+.btn_save {
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}
+.btn_save:hover {
+    background-color: White;
+    color: red;
+    border: 2px solid red;
+    transition-duration: 1s;
+}
+
+.hide {
+    display: none;
+}
+
+#message {
+    font-weight: bolder;
+    background-color: white;
+    display: flex;  /* /!\ Si j'utilise la classe bootstrap 'd-flex align-items-center', */ 
+    align-items : center;   /*le 'hide' ne fonctionne plus !!!  */
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.img_warning {
+    width: 50px;
+    margin: 2%;
+}
+
+.modal-body {
+    height: 500px;
+ }

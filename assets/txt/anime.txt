@@ -1,0 +1,35 @@
+ID_01:::Le Château dans le ciel:::天空の城ラピュタ:::Tenkū no shiro Rapyuta:::Hayao Miyazaki:::1986:::
+ID_02:::Mon voisin Totoro:::となりのトトロ:::Tonari no Totoro:::Hayao Miyazaki:::1988:::
+ID_03:::Le Tombeau des lucioles:::火垂るの墓:::Hotaru no haka:::Isao Takahata:::1988:::
+ID_04:::Kiki la petite sorcière:::魔女の宅急便:::Majo no takkyūbin:::Hayao Miyazaki:::1989:::
+ID_05:::Souvenirs goutte à goutte:::おもひでぽろぽろ:::Omoiporo poro:::Isao Takahata:::1991:::
+ID_06:::Porco Rosso:::紅の豚:::Kurenai no buta:::Hayao Miyazaki:::1992:::
+ID_07:::Je peux entendre l'océan:::海がきこえる:::Umi ga kikoeru:::Tomomi Mochizuki:::1993:::
+ID_08:::Pompoko:::平成狸合戦ぽんぽこ:::Heisei tanuki gassen Ponpoko:::Isao Takahata:::1994:::
+ID_09:::Si tu tends l'oreille:::耳をすませば:::Mimi wo sumaseba:::Yoshifumi Kondō:::1995:::
+ID_10:::Princesse Mononoké:::もののけ姫:::Mononoke hime:::Hayao Miyazaki:::1997:::
+ID_11:::Mes voisins les Yamada:::ホーホケキョ となりの山田くん:::Hōhokekyo tonari no Yamada-kun:::Isao Takahata:::1999:::
+ID_12:::Le Voyage de Chihiro:::千と千尋の神隠し:::Sen to Chihiro no kamikakushi:::Hayao Miyazaki:::2001:::
+ID_13:::Le Royaume des chats:::猫の恩返し:::Neko no ongaeshi:::Hiroyuki Morita:::2002:::
+ID_14:::Le Château ambulant:::ハウルの動く城:::Hauru no ugoku shiro:::Hayao Miyazaki:::2004:::
+ID_15:::Les Contes de Terremer:::ゲド戦記:::Gedo senki:::Gorō Miyazaki:::2006:::
+ID_16:::Ponyo sur la falaise:::崖の上のポニョ:::Gake no ue no Ponyo:::Hayao Miyazaki:::2008:::
+ID_17:::Arrietty, le petit monde des chapardeurs:::借りぐらしのアリエッティ:::Karigurashi no Arietti:::Hiromasa Yonebayashi:::2010:::
+ID_18:::La Colline aux coquelicots:::コクリコ坂から:::Kokuriko zaka kara:::Gorō Miyazaki:::2011:::
+ID_19:::Le vent se lève:::風立ちぬ:::Kaze tachinu:::Hayao Miyazaki:::2013:::
+ID_20:::Le Conte de la princesse Kaguya:::かぐや姫の物語:::Kaguya-Hime no Monogatari:::Isao Takahata:::2013:::
+ID_21:::Souvenirs de Marnie:::思い出のマーニー:::Omoide no Marnie:::Hiromasa Yonebayashi:::2014:::
+ID_22:::La Tortue rouge:::レッドタートル ある島の物語:::Reddotātoru aru shima no monogatari:::Michael Dudok de Wit:::2016:::
+ID_23:::Aya et la Sorcière:::アーヤと魔女:::Âya to majo:::Gorō Miyazaki:::2020:::
+ID_24:::BIEN !  j'ai réussi à AJOUTER:::A faire : SUPPRIME & EDIT  :::CR:::CR:::2021:::
+ID_25:::CHOUETTE ! le SUPPRIME fonctionne:::A faire : EDIT:::CRD:::CRD:::2021:::
+ID_26:::EDIT fonctionnel ! : J'ai fini le CRUD PHP !!!:::A faire : créer un MODAL:::eeee:::CRUD:::2021:::
+ID_27:::Title titre:::ののの:::Nippon:::director real:::2021:::
+ID_28:::Titre title:::のの:::Titre nippon:::Réalisateur Director:::2019:::
+ID_29:::Un titre différent:::ののののののののの:::Nippon title:::Réalisateur différent:::2000:::
+ID_30:::Un autre titre:::のののの:::Titre en Japonais:::Un autre réalisateur:::1999:::
+ID_31:::Yet another title:::ののののののの:::nipponi:::another director:::2021:::
+ID_32:::Titre titre:::ののののののののの:::banomi:::réalis:::1999:::
+ID_33:::Title:::ののののののの:::mononi:::direc:::2000:::
+ID_34:::Another title:::ののののの:::noni nani:::director:::2020:::
+ID_35:::Un titre:::の:::no:::réalisateur:::2021:::
