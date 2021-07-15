@@ -134,3 +134,15 @@ button {
 .modal-body {
     height: 500px;
  }
+
+ /* Écran dont la résolution en largeur est comprise entre 1 et 575 pixels : */
+@media screen and (min-width: 1px) and (max-width:720px) {
+    tr {
+        font-size: x-small;
+        font-weight: bolder;
+    }
+
+    .imgEdit, .imgDelete {
+        width: 20px;
+    }
+}

@@ -38,8 +38,8 @@ function constructTable()
         sHTML+= "<td>" + aGhibli[i]["Kanji"] + "</td>";
         sHTML+= "<td>" + aGhibli[i]["Reali"] + "</td>";
         sHTML+= "<td>" + aGhibli[i]["Annee"] + "</td>";
-        sHTML+= "<td data-bs-toggle=\"modal\" data-bs-target=\"#Modal\" onClick=\"editAnime(" + i + ")\"><img src=\"./assets/img/edit.png\" alt=\"edit\"></td>";
-        sHTML+= "<td data-bs-toggle=\"modal\" data-bs-target=\"#Modal\" onClick=\"supprimAnim(" + i + ")\"><img src=\"./assets/img/delete.png\" alt=\"delete\"></td>";
+        sHTML+= "<td data-bs-toggle=\"modal\" data-bs-target=\"#Modal\" onClick=\"editAnime(" + i + ")\"><img class=\"imgEdit\" src=\"./assets/img/edit.png\" alt=\"edit\"></td>";
+        sHTML+= "<td data-bs-toggle=\"modal\" data-bs-target=\"#Modal\" onClick=\"supprimAnim(" + i + ")\"><img class=\"imgDelete\" src=\"./assets/img/delete.png\" alt=\"delete\"></td>";
         sHTML+= "</tr>";
     }
     sHTML+= "</tbody>";
